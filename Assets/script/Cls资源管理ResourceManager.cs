@@ -38,7 +38,7 @@ public class Cls资源管理ResourceManager
 
         string url映射表所在路径;  //先声明一个字符串, 之后会给这个字符串赋值.
 
-        //如果在编译器下, 怎么做...
+        //如果在编译器,或pc下, 怎么做...
 #if UNITY_EDITOR || UNITY_STANDALONE //注意: 这些语句, 不是c#程序, 而是unity自带的宏标签
         url映射表所在路径 = "file://" + Application.dataPath + "/StreamingAssets/" + str资源映射表的文件名; //Application.dataPath此属性, 用于返回程序的数据文件所在文件夹的路径. 在pc上, 就是指 Assets目录
 
