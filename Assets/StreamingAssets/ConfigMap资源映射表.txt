@@ -1,0 +1,4 @@
+my预制体=Prebs/my预制体
+ob技能预制件=Prebs/ob技能预制件
+ob技能预制件2=Prebs/ob技能预制件2
+ob技能预制件3=Prebs/ob技能预制件3

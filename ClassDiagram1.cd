@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cls技能相关数据skillData">
+    <Position X="8.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAgDEAhCgAAiABAKEAGAAAAAAKQAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Cls技能相关数据skillData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cls角色当前状态CharacterStatus">
+    <Position X="5.25" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Cls角色当前状态CharacterStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cls角色技能管理CharacterSkillManager">
+    <Position X="5.25" Y="2.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABUAAAAAACAAAAAAAAAEAAAAAAAAAAAIAAAAAEAAIAA=</HashCode>
+      <FileName>Assets\script\Cls角色技能管理CharacterSkillManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cls玩家控制CharacterInputController">
+    <Position X="2" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Cls玩家控制CharacterInputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="enm技能攻击类型skillAttackType">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Cls技能相关数据skillData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="enm技能形状选择类型">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Cls技能相关数据skillData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

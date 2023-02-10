@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 934bed619fa174d43ad7e6bad1c1a25d, type: 3}
+    - {fileID: 2800000, guid: f2cf27b8a2d2eb84fbee44a43bf2f1a7, type: 3}
+    - {fileID: 2800000, guid: 0ee9ddfc3b0c26641aef7730e97edd3e, type: 3}
+    - {fileID: 2800000, guid: 7f178a92bce199741a25e2c7d42bf5d4, type: 3}
+    - {fileID: 2800000, guid: 01dfc628643e40543b95714405df40cf, type: 3}
+    - {fileID: 2800000, guid: 9c6f11ad6981e3948b9cbde81943670c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 934bed619fa174d43ad7e6bad1c1a25d, type: 3}
+  - {fileID: 21300000, guid: 7f178a92bce199741a25e2c7d42bf5d4, type: 3}
+  - {fileID: 21300000, guid: 01dfc628643e40543b95714405df40cf, type: 3}
+  - {fileID: 21300000, guid: f2cf27b8a2d2eb84fbee44a43bf2f1a7, type: 3}
+  - {fileID: 21300000, guid: 0ee9ddfc3b0c26641aef7730e97edd3e, type: 3}
+  - {fileID: 21300000, guid: 9c6f11ad6981e3948b9cbde81943670c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fox
+  - "\u5C0F\u732A\u732A"
+  - "\u5C0F\u7334\u5B50"
+  - "\u5C0F\u72D0\u72F8"
+  - "\u5C0F\u72D7\u5B50"
+  - "\u5C0F\u9E7F"
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

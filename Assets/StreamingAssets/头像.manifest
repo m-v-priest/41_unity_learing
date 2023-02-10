@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3035314152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b1057221a8c53189e594032a12282d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d677c6dec2405a43fe6dd294cca7c3e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Img/\u5C0F\u732A\u732A.png"
+- "Assets/Resources/Img/\u5C0F\u7334\u5B50.png"
+- "Assets/Resources/Img/\u5C0F\u72D7\u5B50.png"
+- Assets/Resources/Img/fox.png
+- "Assets/Resources/Img/\u5C0F\u9E7F.png"
+- "Assets/Resources/Img/\u5C0F\u72D0\u72F8.png"
+Dependencies: []
